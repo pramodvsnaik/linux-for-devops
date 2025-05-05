@@ -1,4 +1,14 @@
-## 01 - KNOW THE LINUX FILE SYSTEM
+## 01 - LINUX FAMILIES
+
+| FAMILY  | DESCRIPTION |
+| ----------- | ----------- |
+|Red Hat Family (For Commercial and Enterprise Purpose)| - Red Hat Enterprise Linux (RHEL) <br> - Fedora <br> - CentOS|
+|Debian Family (For Community and User-Friendly/Personal Purpose)|- Ubuntu <br> - Linux Mint - ubuntu based but for better GUI <br> - Kali Linux - For Cybersecurity Professionals|
+
+
+
+
+## 02 - KNOW THE LINUX FILE SYSTEM
 
 Before learning any linux commands, it is good to understand the linux file system.
 Here is the high level screenshot.
@@ -7,7 +17,7 @@ Here is the high level screenshot.
 
 
 
-## 02 - PURPOSE OF THE LINUX DIRECTORIES(FOLDERS)
+## 03 - PURPOSE OF THE LINUX DIRECTORIES(FOLDERS)
 
 Below is the foundational list of directories and its purpose.
 
